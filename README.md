@@ -1,5 +1,5 @@
-# Sarvamm Rathore  
-Lamrin Tech Skills University, Rupnagar, Punjab  
+
+Contact: 
 📞 700-796-6726 | ✉️ srvmrtr@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/sarvamm) | 💻 [GitHub](https://github.com/sarvamm)  
 
 ---
