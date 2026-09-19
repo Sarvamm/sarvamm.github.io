@@ -1,8 +1,10 @@
 # Sarvamm Rathore
 
-📧 [srvmrtr@gmail.com](mailto:srvmrtr@gmail.com)  
-🔗 [linkedin.com/in/sarvamm](https://linkedin.com/in/sarvamm)  
-💻 [github.com/sarvamm](https://github.com/sarvamm)
+[srvmrtr@gmail.com](mailto:srvmrtr@gmail.com)  
+[linkedin.com/in/sarvamm](https://linkedin.com/in/sarvamm)  
+[github.com/sarvamm](https://github.com/sarvamm)
+[leetcode profile](https://leetcode.com/u/Sarvamm/)
+[hosted projects](https://share.streamlit.io/user/sarvamm)
 
 ---
 
