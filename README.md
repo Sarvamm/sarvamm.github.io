@@ -1,6 +1,5 @@
 # Sarvamm Rathore
 
-📞 700-796-6726  
 📧 [srvmrtr@gmail.com](mailto:srvmrtr@gmail.com)  
 🔗 [linkedin.com/in/sarvamm](https://linkedin.com/in/sarvamm)  
 💻 [github.com/sarvamm](https://github.com/sarvamm)
@@ -15,12 +14,22 @@ Aug. 2024 – May 2028
 
 ---
 
+## Technical Skills
+- **Languages:** Python, C++
+- **Libraries:** Pandas, Numpy, Scikit-Learn, PyTorch, Langchain, Streamlit
+- **Databases & Querying:** SQL (PostgreSQL)
+- **Data Visualization:** Tableau, Power BI, Plotly, Seaborn, Matplotlib
+- **Core Concepts:** Data Structures & Algorithms, Databases Exploratory Data Analysis, Machine Learning Pipelines
+  
+
+---
+
 ## Experience
 **CSRBOX IBM Winter Internship** — *Prompt Engineer Intern*  
-Dec. 2024 – Jan. 2025 · Online Mode  
+Dec. 2024 – Jan. 2025 · Remote  
 [View Certificate](https://drive.google.com/file/d/1FYiq3YnfKcl7ZUxn8V6DOAEIjQ48sArU/view?usp=sharing)
 
-- Designed an end-to-end product launch simulation by leveraging AI tools and advanced prompt engineering techniques.  
+- Designed an end-to-end product launch simulation by utilizing AI tools and advanced prompt engineering techniques.  
 - Integrated artificial intelligence across key business functions, including product conceptualization, market analysis, marketing strategy, and financial planning.  
 
 ---
@@ -41,33 +50,11 @@ Dec. 2024 – Jan. 2025 · Online Mode
 ---
 
 ## Certifications
-- Career Essentials in Data Analysis by Microsoft and LinkedIn — [View Certificate](https://drive.google.com/file/d/16LfTNAb-glTVZU5WY7_v3_o05grDZvTF/view?usp=sharing)  
+- Google Advanced Data Analytics — [View Certificate](https://www.coursera.org/account/accomplishments/professional-cert/certificate/88TYQ2085PPG)
+- Machine Learning specialization -- Stanford University [View Certificate](https://www.coursera.org/account/accomplishments/specialization/SQKB6MABNFI0)
+- Machine Learning for Data Science projects -- IBM [View Certificate](https://www.credly.com/badges/b43a2ef1-073f-475e-a4b9-4636f270ec0b/linked_in_profile)
 - Applied Data Science with Python Level 2 — [View Certificate](https://www.credly.com/badges/cfa0a380-0ad6-4039-8e35-e07fa1c8733e)  
-- Data Science 101 by IBM — [View Certificate](https://cognitiveclass.ai/courses/data-science-101)  
+- Data Science 101 by IBM — [View Certificate](https://cognitiveclass.ai/courses/data-science-101)
+- [VIEW ALL CERTIFICATIONS](https://www.credly.com/users/sarvamm-rathore)
 
 ---
-
-## Technical Skills
-- **Languages:** Python, SQL, C++  
-- **Tools:** Git, Tableau, Power BI, IBM Watson, Google Cloud Platform  
-- **Libraries/Frameworks:** Pandas, Numpy, Scikit-Learn, PyTorch, Matplotlib, Seaborn, Langchain, Streamlit  
-
----
-
-## Relevant Coursework
-- Data Structures, Algorithms  
-- Software Methodology  
-- Data Analytics for Industries  
-- Database Management  
-- Artificial Intelligence  
-- Machine Learning  
-- Deep Learning  
-- Natural Language Processing  
-- Large Language Models  
-
----
-
-## Extracurricular
-- The Virtual Photography Awards Winner (Jan 2024)  
-- Tech Meme Competition Winner (Apr 2024)  
-- Core team member in organizing the 54th Annual Convention of ISTE  
