@@ -1,10 +1,6 @@
 # Sarvamm Rathore
 
-[srvmrtr@gmail.com](mailto:srvmrtr@gmail.com)  
-[linkedin.com/in/sarvamm](https://linkedin.com/in/sarvamm)  
-[github.com/sarvamm](https://github.com/sarvamm)
-[leetcode profile](https://leetcode.com/u/Sarvamm/)
-[hosted projects](https://share.streamlit.io/user/sarvamm)
+[Email](mailto:srvmrtr@gmail.com) | [Linkedin](https://linkedin.com/in/sarvamm) | [Github](https://github.com/sarvamm) | [Leetcode](https://leetcode.com/u/Sarvamm/) | [Projects](https://share.streamlit.io/user/sarvamm)
 
 ---
 
@@ -21,7 +17,7 @@ Aug. 2024 – May 2028
 - **Libraries:** Pandas, Numpy, Scikit-Learn, PyTorch, Langchain, Streamlit
 - **Databases & Querying:** SQL (PostgreSQL)
 - **Data Visualization:** Tableau, Power BI, Plotly, Seaborn, Matplotlib
-- **Core Concepts:** Data Structures & Algorithms, Databases Exploratory Data Analysis, Machine Learning Pipelines
+- **Core Concepts:** Data Structures & Algorithms, Databases, Exploratory Data Analysis, Machine Learning Pipelines
   
 
 ---
@@ -57,6 +53,7 @@ Dec. 2024 – Jan. 2025 · Remote
 - Machine Learning for Data Science projects -- IBM [View Certificate](https://www.credly.com/badges/b43a2ef1-073f-475e-a4b9-4636f270ec0b/linked_in_profile)
 - Applied Data Science with Python Level 2 — [View Certificate](https://www.credly.com/badges/cfa0a380-0ad6-4039-8e35-e07fa1c8733e)  
 - Data Science 101 by IBM — [View Certificate](https://cognitiveclass.ai/courses/data-science-101)
-- [VIEW ALL CERTIFICATIONS](https://www.credly.com/users/sarvamm-rathore)
+
+  [VIEW ALL CERTIFICATIONS](https://www.credly.com/users/sarvamm-rathore)
 
 ---
